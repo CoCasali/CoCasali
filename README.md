@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cocasali&label=Profile%20views&color=0e75b6&style=flat" alt="cocasali" /> </p>
 
+- 📌 I'm currently working on **a scientific project** to help people return to sport
+
 - 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Data Visualization and Data Cleaning**
