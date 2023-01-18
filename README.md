@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cocasali&label=Profile%20views&color=0e75b6&style=flat" alt="cocasali" /> </p>
 
-- 📌 I'm currently working on **a scientific project** to help people return to sport
-
-- 🌱 I’m currently learning **Power BI**
+- 📌 I'm currently working as **Data Analyst** in a **university research laboratory** working in the fields of neurology, biomechanics, exercise physiology.
 
 - 💬 Ask me about **Data Visualization and Data Cleaning**
 
